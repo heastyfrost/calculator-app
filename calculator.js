@@ -1,9 +1,3 @@
-function addTwoAndSeven() {
-    return 2 + 7;
+function calculateSum(num1, num2) {
+    // return will be added in Step 7
 }
-console.log(addTwoAndSeven());
-
-function addThreeAndFour() {
-    return 3 + 4;
-}
-console.log(addThreeAndFour());
