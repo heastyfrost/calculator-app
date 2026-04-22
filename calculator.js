@@ -1,3 +1,3 @@
 function addTwoAndSeven() {
-    // return will be added in Step 2
+    return 2 + 7;
 }
