@@ -33,3 +33,5 @@ console.log(calculateQuotient(3, 0));
 function calculateSquare(num) {
     return num * num;
 }
+console.log(calculateSquare(2));
+console.log(calculateSquare(9));
